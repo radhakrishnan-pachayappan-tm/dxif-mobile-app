@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "viewValue": "International",
+      "Abbrev": "Int",
+      "value": "IN"
+    },
+    {
+      "viewValue": "Alabama",
+      "Abbrev": "Ala.",
+      "value": "AL"
+    },
+    {
+      "viewValue": "Alaska",
+      "Abbrev": "Alaska",
+      "value": "AK"
+    },
+    {
+      "viewValue": "Arizona",
+      "Abbrev": "Ariz.",
+      "value": "AZ"
+    },
+    {
+      "viewValue": "Arkansas",
+      "Abbrev": "Ark.",
+      "value": "AR"
+    },
+    {
+      "viewValue": "California",
+      "Abbrev": "Calif.",
+      "value": "CA"
+    },
+    {
+      "viewValue": "Colorado",
+      "Abbrev": "Colo.",
+      "value": "CO"
+    },
+    {
+      "viewValue": "Connecticut",
+      "Abbrev": "Conn.",
+      "value": "CT"
+    },
+    {
+      "viewValue": "Delaware",
+      "Abbrev": "Del.",
+      "value": "DE"
+    },
+    {
+      "viewValue": "District of Columbia",
+      "Abbrev": "D.C.",
+      "value": "DC"
+    },
+    {
+      "viewValue": "Florida",
+      "Abbrev": "Fla.",
+      "value": "FL"
+    },
+    {
+      "viewValue": "Georgia",
+      "Abbrev": "Ga.",
+      "value": "GA"
+    },
+    {
+      "viewValue": "Hawaii",
+      "Abbrev": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "viewValue": "Idaho",
+      "Abbrev": "Idaho",
+      "value": "ID"
+    },
+    {
+      "viewValue": "Illinois",
+      "Abbrev": "Ill.",
+      "value": "IL"
+    },
+    {
+      "viewValue": "Indiana",
+      "Abbrev": "Ind.",
+      "value": "IN"
+    },
+    {
+      "viewValue": "Iowa",
+      "Abbrev": "Iowa",
+      "value": "IA"
+    },
+    {
+      "viewValue": "Kansas",
+      "Abbrev": "Kans.",
+      "value": "KS"
+    },
+    {
+      "viewValue": "Kentucky",
+      "Abbrev": "Ky.",
+      "value": "KY"
+    },
+    {
+      "viewValue": "Louisiana",
+      "Abbrev": "La.",
+      "value": "LA"
+    },
+    {
+      "viewValue": "Maine",
+      "Abbrev": "Maine",
+      "value": "ME"
+    },
+    {
+      "viewValue": "Maryland",
+      "Abbrev": "Md.",
+      "value": "MD"
+    },
+    {
+      "viewValue": "Massachusetts",
+      "Abbrev": "Mass.",
+      "value": "MA"
+    },
+    {
+      "viewValue": "Michigan",
+      "Abbrev": "Mich.",
+      "value": "MI"
+    },
+    {
+      "viewValue": "Minnesota",
+      "Abbrev": "Minn.",
+      "value": "MN"
+    },
+    {
+      "viewValue": "Mississippi",
+      "Abbrev": "Miss.",
+      "value": "MS"
+    },
+    {
+      "viewValue": "Missouri",
+      "Abbrev": "Mo.",
+      "value": "MO"
+    },
+    {
+      "viewValue": "Montana",
+      "Abbrev": "Mont.",
+      "value": "MT"
+    },
+    {
+      "viewValue": "Nebraska",
+      "Abbrev": "Nebr.",
+      "value": "NE"
+    },
+    {
+      "viewValue": "Nevada",
+      "Abbrev": "Nev.",
+      "value": "NV"
+    },
+    {
+      "viewValue": "New Hampshire",
+      "Abbrev": "N.H.",
+      "value": "NH"
+    },
+    {
+      "viewValue": "New Jersey",
+      "Abbrev": "N.J.",
+      "value": "NJ"
+    },
+    {
+      "viewValue": "New Mexico",
+      "Abbrev": "N.M.",
+      "value": "NM"
+    },
+    {
+      "viewValue": "New York",
+      "Abbrev": "N.Y.",
+      "value": "NY"
+    },
+    {
+      "viewValue": "North Carolina",
+      "Abbrev": "N.C.",
+      "value": "NC"
+    },
+    {
+      "viewValue": "North Dakota",
+      "Abbrev": "N.D.",
+      "value": "ND"
+    },
+    {
+      "viewValue": "Ohio",
+      "Abbrev": "Ohio",
+      "value": "OH"
+    },
+    {
+      "viewValue": "Oklahoma",
+      "Abbrev": "Okla.",
+      "value": "OK"
+    },
+    {
+      "viewValue": "Oregon",
+      "Abbrev": "Ore.",
+      "value": "OR"
+    },
+    {
+      "viewValue": "Pennsylvania",
+      "Abbrev": "Pa.",
+      "value": "PA"
+    },
+    {
+      "viewValue": "Rhode Island",
+      "Abbrev": "R.I.",
+      "value": "RI"
+    },
+    {
+      "viewValue": "South Carolina",
+      "Abbrev": "S.C.",
+      "value": "SC"
+    },
+    {
+      "viewValue": "South Dakota",
+      "Abbrev": "S.D.",
+      "value": "SD"
+    },
+    {
+      "viewValue": "Tennessee",
+      "Abbrev": "Tenn.",
+      "value": "TN"
+    },
+    {
+      "viewValue": "Texas",
+      "Abbrev": "Tex.",
+      "value": "TX"
+    },
+    {
+      "viewValue": "Utah",
+      "Abbrev": "Utah",
+      "value": "UT"
+    },
+    {
+      "viewValue": "Vermont",
+      "Abbrev": "Vt.",
+      "value": "VT"
+    },
+    {
+      "viewValue": "Virginia",
+      "Abbrev": "Va.",
+      "value": "VA"
+    },
+    {
+      "viewValue": "Washington",
+      "Abbrev": "Wash.",
+      "value": "WA"
+    },
+    {
+      "viewValue": "West Virginia",
+      "Abbrev": "W.Va.",
+      "value": "WV"
+    },
+    {
+      "viewValue": "Wisconsin",
+      "Abbrev": "Wis.",
+      "value": "WI"
+    },
+    {
+      "viewValue": "Wyoming",
+      "Abbrev": "Wyo.",
+      "value": "WY"
+    }
+  ]
+}

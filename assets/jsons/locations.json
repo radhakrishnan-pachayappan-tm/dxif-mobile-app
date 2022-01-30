@@ -1,0 +1,81 @@
+{
+  "offices": [
+    {
+      "address": "2 Banting\nCalifornia\nIrvine, 92618\nUnited States",
+      "id": "los-angeles",
+      "image": "https://lh3.googleusercontent.com/Iim0OVcAgg9vmXc5ADn9KvOQFplrMZ8hBTg2biiTtuWPy_r56cy4Byx1ROk6coGt7knQdmx_jO45VX1kiCJZ0QzEtS97AP_BYG4F2w",
+      "lat": 33.658040,
+      "lng": -117.758560,
+      "name": "Toyota Los Angeles Region",
+      "phone": "+1 734-332-6500",
+      "region": "north-america"
+    },
+    {
+      "address": "440 Forbes Boulevard\nMassachusetts\nMansfield 02048\nUnited States",
+      "id": "boston-region",
+      "image": "https://lh3.googleusercontent.com/XroZnqewSrO6KuvXM5hDHtjUJzUcRQLZYfCKs4jP44dKezRvNx58uxaqUKS4fQ2eXzG2TpJNJ1X2xtfBe7Prl5hSG_xjPEF1xLtFodM",
+      "lat": 42.015710,
+      "lng": -71.235800,
+      "name": "Toyota Boston Region",
+      "phone": "",
+      "region": "north-america"
+    },
+    {
+      "address": "209 Technology Drive\nCalifornia\nIrvine, 92618\nUnited States",
+      "id": "western-area",
+      "image": "https://lh3.googleusercontent.com/py7Qvqqoec1MB0dMKnGWn7ju9wET_dIneTb24U-ri8XAsECJnOaBoNmvfa51PIaC0rlsyQvQXvAK8RdLqpkhpkRSzmhNKqb-tY2_",
+      "lat": 33.666250,
+      "lng": -117.749080,
+      "name": "Lexus Western Area",
+      "phone": "+1 404-487-9000",
+      "region": "north-america"
+    }
+  ],
+  "regions": [
+    {
+      "coords": {
+        "lat": 2.9660291,
+        "lng": 1.3271339
+      },
+      "id": "africa-middle-east",
+      "name": "Africa & Middle East",
+      "zoom": 3
+    },
+    {
+      "coords": {
+        "lat": 0.0524811,
+        "lng": 127.6560787
+      },
+      "id": "asia-pacific",
+      "name": "Asia Pacific",
+      "zoom": 3
+    },
+    {
+      "coords": {
+        "lat": 46.1352815,
+        "lng": 7.4033438
+      },
+      "id": "europe",
+      "name": "Europe",
+      "zoom": 4
+    },
+    {
+      "coords": {
+        "lat": -17.5554497,
+        "lng": -99.2316195
+      },
+      "id": "latin-america",
+      "name": "Latin America",
+      "zoom": 3
+    },
+    {
+      "coords": {
+        "lat": 45.7128252,
+        "lng": -97.1547448
+      },
+      "id": "north-america",
+      "name": "North America",
+      "zoom": 4
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "deptDetails": [
+    {
+      "deptName": "TMNA Officers",
+      "deptCode": "950001_DG"
+    },
+    {
+      "deptName": "TMNA IT Management",
+      "deptCode": "955000_DG"
+    },
+    {
+      "deptName": "TMNA Advanced Technology",
+      "deptCode": "XR012_DG"
+    },
+    {
+      "deptName": "TMNA Enterprise Arch, Data & Adv Tech",
+      "deptCode": "955001_DG"
+    },
+    {
+      "deptName": "TMNA Dealer Field & Affiliates",
+      "deptCode": "955048_DG"
+    },
+    {
+      "deptName": "TMNA Office of the CIO",
+      "deptCode": "XR005_DG"
+    },
+    {
+      "deptName": "TMNA Data, Comp & Analytics",
+      "deptCode": "XR011_DG"
+    },
+    {
+      "deptName": "TMNA Infrastructure & Operations Services",
+      "deptCode": "XR002_DG"
+    },
+    {
+      "deptName": "TMNA Infrastructure Services",
+      "deptCode": "955016_DG"
+    },
+    {
+      "deptName": "TMNA Cybersecurity",
+      "deptCode": "XR009_DG"
+    },
+    {
+      "deptName": "TMNA Information Security",
+      "deptCode": "955022_DG"
+    },
+    {
+      "deptName": "TMNA Manufacturing & R&D",
+      "deptCode": "955025_DG"
+    },
+    {
+      "deptName": "TMNA Builders",
+      "deptCode": "XR001_DG"
+    },
+    {
+      "deptName": "TMNA Consumer Experience",
+      "deptCode": "XR010_DG"
+    },
+    {
+      "deptName": "TMNA After Sales IT",
+      "deptCode": "955044_DG"
+    },
+    {
+      "deptName": "TMNA Telematics",
+      "deptCode": "955069_DG"
+    },
+    {
+      "deptName": "TMNA Corporate IT Services",
+      "deptCode": "955071_DG"
+    },
+    {
+      "deptName": "TMNA Portfolio Enablement",
+      "deptCode": "XR008_DG"
+    },
+    {
+      "deptName": "TMNA Digital & Corporate Experience",
+      "deptCode": "XR003_DG"
+    },
+    {
+      "deptName": "TMNA Finance & Procurement",
+      "deptCode": "955074_DG"
+    },
+    {
+      "deptName": "TMNA Mfg Plants & R&D Support",
+      "deptCode": "955028_DG"
+    },
+    {
+      "deptName": "TMNA Dealers",
+      "deptCode": "XR004_DG"
+    },
+    {
+      "deptName": "TMNA Legal",
+      "deptCode": "956001_DG"
+    },
+    {
+      "deptName": "TMNA Government Relations Execs",
+      "deptCode": "956100_DG"
+    },
+    {
+      "deptName": "TMNA - Govt Affairs Federal Lobbyist Outreach",
+      "deptCode": "956101_DG"
+    },
+    {
+      "deptName": "TMNA - Govt Affairs State Government Relations Department Group",
+      "deptCode": "956102_DG"
+    },
+    {
+      "deptName": "TMNA - SRA Sustainability & Regulatory Affairs",
+      "deptCode": "DG956200"
+    },
+    {
+      "deptName": "TMNA - SRA Compliance Audit & Standards",
+      "deptCode": "DG956204"
+    },
+    {
+      "deptName": "TMNA - SRA Energy & Environmental Research",
+      "deptCode": "DG956201"
+    },
+    {
+      "deptName": "TMNA - SRA Environmental Regulation",
+      "deptCode": "DG956202"
+    },
+    {
+      "deptName": "TMNA - SRA Safety Research & Regulation",
+      "deptCode": "DG956203"
+    },
+    {
+      "deptName": "TMNA C&AO Chief Compliance Officer",
+      "deptCode": "DG956300"
+    },
+    {
+      "deptName": "TMNA - CSS Admin & Corporate Services",
+      "deptCode": "DG956610"
+    },
+    {
+      "deptName": "TMNA Regulatory Compliance",
+      "deptCode": "DG956307"
+    },
+    {
+      "deptName": "TMNA Compliance & Ethics",
+      "deptCode": "DG956308"
+    },
+    {
+      "deptName": "TMNA C&AO Risk Financing, Remediation, Ethics",
+      "deptCode": "XR013_DG"
+    },
+    {
+      "deptName": "TMNA C&AO Regulatory & Compliance",
+      "deptCode": "XR007_DG"
+    },
+    {
+      "deptName": "TMNA C&AO Customs,Trade & Strat Comp Bus. Mgmnt",
+      "deptCode": "DG956312"
+    },
+    {
+      "deptName": "TMNA C&AO EHS, Cyber/Privacy, Mobility",
+      "deptCode": "XR006_DG"
+    },
+    {
+      "deptName": "TMNA C&AO Internal Audit",
+      "deptCode": "DG956316"
+    },
+    {
+      "deptName": "TMNA Accounting & Finance Executives",
+      "deptCode": "DG956400"
+    },
+    {
+      "deptName": "TMNA NA Revenue Management Product & Analytics",
+      "deptCode": "956402_DG"
+    },
+    {
+      "deptName": "TMNA NA Corporate Finance",
+      "deptCode": "DG956415"
+    },
+    {
+      "deptName": "TMNA Accounting Shared Services",
+      "deptCode": "DG956406"
+    },
+    {
+      "deptName": "TMNA NA Controllership",
+      "deptCode": "DG956409"
+    },
+    {
+      "deptName": "TMNA ERP and A&F Mobilization",
+      "deptCode": "DG956420"
+    },
+    {
+      "deptName": "TMNA HR Team Member Engagement",
+      "deptCode": "DG956501"
+    },
+    {
+      "deptName": "TMNA - CSS Talent Mobility",
+      "deptCode": "DG956506"
+    },
+    {
+      "deptName": "TMNA Total Rewards",
+      "deptCode": "DG956504"
+    },
+    {
+      "deptName": "TMNA HR Collaboration and Performance",
+      "deptCode": "DG956510"
+    },
+    {
+      "deptName": "TMNA HR Strategic Partnering",
+      "deptCode": "DG956511"
+    },
+    {
+      "deptName": "TMNA HR Execs",
+      "deptCode": "DG956500"
+    },
+    {
+      "deptName": "TMNA HR TMC Expat Staff",
+      "deptCode": "956535_DG"
+    },
+    {
+      "deptName": "TMNA HR Trainee/Co-Op/Intern",
+      "deptCode": "DG956536"
+    },
+    {
+      "deptName": "TMNA - CSS Vehicle & Payroll Services",
+      "deptCode": "DG956621"
+    },
+    {
+      "deptName": "TMNA Indirect Procurement",
+      "deptCode": "DG956606"
+    },
+    {
+      "deptName": "TMNA Corporate Communications Executives",
+      "deptCode": "DG956700"
+    },
+    {
+      "deptName": "TMNA Corporate Communications - Manufacturing",
+      "deptCode": "DG956703"
+    },
+    {
+      "deptName": "TMNA ES Executives",
+      "deptCode": "DG956800"
+    },
+    {
+      "deptName": "TMNA Strategic Planning",
+      "deptCode": "DG956801"
+    },
+    {
+      "deptName": "TMNA Insights",
+      "deptCode": "DG956804"
+    },
+    {
+      "deptName": "TMNA One Toyota Competitiveness",
+      "deptCode": "DG957100"
+    },
+    {
+      "deptName": "TMNA Connected Technologies",
+      "deptCode": "957200_DG"
+    },
+    {
+      "deptName": "TMNA Talent Acquisition",
+      "deptCode": "DG956501"
+    },
+    {
+      "deptName": "TMNA Office of Social Innovation",
+      "deptCode": "DG996102"
+    },
+    {
+      "deptName": "TMNA Diversity + Inclusion",
+      "deptCode": "DG996108"
+    },
+    {
+      "deptName": "TMNA Strategic Partnerships",
+      "deptCode": "DG996101"
+    },
+    {
+      "deptName": "TMNA Multicultural Business Alliance",
+      "deptCode": "DG996104"
+    },
+    {
+      "deptName": "TMNA - Strategy Hub",
+      "deptCode": "DG996106"
+    },
+    {
+      "deptName": "TMNA - SRA Environmental Sustainability",
+      "deptCode": "DG996112"
+    }
+  ]
+}

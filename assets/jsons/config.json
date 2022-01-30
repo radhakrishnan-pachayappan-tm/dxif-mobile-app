@@ -1,0 +1,12 @@
+{
+  "base_url": "https://dxif-api.qa.dealer.toyota.com/" ,
+  "get_dealer_info": "dealer-info/dealers" ,
+  "get_program_info": "fleet-program/programInfo" ,
+  "get_inventory_models": "fleet-inventory/getInventoryByModels" ,
+  "get_station_info":"fleet-station/stationInfo",
+  "post_create_reservation": "fleet-reservation/createReservation",
+
+  "api_fleet_program": "https://dxif-api.qa.dealer.toyota.com/fleet-program/programInfo?dealerCd=04160&visible=true" ,
+  "api_fleet_inventory": "https://dxif-api.qa.dealer.toyota.com/fleet-inventory/getInventoryByModels?dealer=04160&startDateTime=2022-01-25T18:30:00Z&endDateTime=2022-01-26T17:00:00Z&station=Toyota Los Angeles Region",
+  "api_station_info":"https://dxif-api.qa.dealer.toyota.com/fleet-station/stationInfo"
+}
